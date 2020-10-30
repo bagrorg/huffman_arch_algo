@@ -1,1 +1,3 @@
-# huffman_arch_algo
+# Huffman Archivating Algorithm
+
+
